@@ -1,6 +1,6 @@
 # hello-world
 My first repository
 
-Chaeking out how the GitHub works.
+Checking out how the GitHub works.
 
 
